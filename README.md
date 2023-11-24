@@ -10,5 +10,5 @@ Como podemos testar este codigo?
 
 A forma mais facil de poder testar este codigo e usar o console do navegador para realizar testes interativos.
 
-Para esto debemos copiar o codido desde a linha 10 ate a linha 24 e jogar no console do navegador.
+Para esto debemos copiar o codido desde a linha 10 ate a linha 23 e jogar no console do navegador.
 Ao dar um enter no console veremos o resultado da operação dependendo do digito que for ussado.
