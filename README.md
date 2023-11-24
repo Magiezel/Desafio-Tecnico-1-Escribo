@@ -6,8 +6,8 @@ Se for divisível, o número é adicionado ao somatório.
 No final, a função retorna a soma dos números divisíveis por 3 ou 5. 
 O exemplo de uso mostra como chamar a função com o número 10.
 
-Como podemos testar este codigo?
-
+**Como podemos testar este codigo?
+**
 A forma mais facil de poder testar este codigo e usar o console do navegador para realizar testes interativos.
 
 Para esto debemos copiar o codido desde a linha 10 ate a linha 23 e jogar no console do navegador.
